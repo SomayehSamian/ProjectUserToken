@@ -14,9 +14,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C4B7D662-ADF3-417A-952A-4DABB7ADEFDC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "extra", "extra", "{5E2B6EFB-06E4-4993-9945-EDD61974C64B}"
-	ProjectSection(SolutionItems) = preProject
-		..\Sqript.sql = ..\Sqript.sql
-	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{14EAD331-431F-4DFC-A3B3-B55722CCB132}"
 EndProject
